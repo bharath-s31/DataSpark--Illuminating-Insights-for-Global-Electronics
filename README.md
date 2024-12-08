@@ -35,7 +35,6 @@ As a member of Global Electronics' data analytics team, your primary task is to 
 ### **Power BI/Tableau Visualization**
 
 1. Data Import: Connect SQL to Power BI/Tableau and import the cleaned data.
-
 2. Dashboard Creation: Develop interactive dashboards to visualize key findings.
 
 ## **Analysis Steps**
