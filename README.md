@@ -54,19 +54,16 @@ As a member of Global Electronics' data analytics team, your primary task is to 
 
 **Skills Acquired**
 
-Data Cleaning and Preprocessing
-Exploratory Data Analysis (EDA)
-Python Programming
-Data Management using SQL
-Data Visualization with Power BI
+*Data Cleaning and Preprocessing
+*Exploratory Data Analysis (EDA)
+*Python Programming
+*Data Management using SQL
+*Data Visualization with Power BI
 
 **Results**
-- Upon completion, this project will deliver a comprehensive EDA report for Global Electronics,featuring:
-- Cleaned and integrated datasets.
-- In-depth insights into customer demographics, purchasing behaviors, product performance, store operations, and the impact of currency exchange rates on sales.
-- Visually compelling dashboards and visualizations.
-- Actionable recommendations to enhance marketing strategies, optimize inventory management, improve sales forecasting, and guide product development and store operations.
-These insights will empower Global Electronics to increase customer satisfaction, maximize revenue, and drive overall business growth.
+
+Upon completion of the project, learners are expected to deliver a comprehensive Exploratory Data Analysis (EDA) report for Global Electronics, featuring clean and integrated datasets, in-depth insights into customer demographics, purchasing behaviors, product performance, store operations, and currency impact on sales. The report will include visually compelling visualizations and actionable recommendations tailored to enhance marketing strategies, optimize inventory management, improve sales forecasting, guide product development, and inform store expansion and operational decisions. This analysis will empower Global Electronics to increase customer satisfaction, maximize revenue, and drive overall business growth.
+
 
 **Install Required Libraries:**
 
