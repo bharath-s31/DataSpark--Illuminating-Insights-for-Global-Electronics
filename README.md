@@ -28,11 +28,16 @@ As a member of Global Electronics' data analytics team, your primary task is to 
 3. Data Merging: Combine relevant datasets (e.g., linking sales data with product and customer data).
  
  **Data Management Using SQL**
+
 1. Database Insertion: Load the preprocessed data into an SQL database by creating tables for each data source.
 2. SQL Queries: Formulate and execute 10 key SQL queries to extract insights.
+
  **Power BI/Tableau Visualization**
+
 1.Data Import: Connect SQL to Power BI/Tableau and import the cleaned data.
+
 2.Dashboard Creation: Develop interactive dashboards to visualize key findings.
+
 **Analysis Steps**
 1. Customer Analysis
 - Demographic Distribution: Analyze customer demographics by gender, age, and location.
