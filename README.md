@@ -34,25 +34,25 @@ As a member of Global Electronics' data analytics team, your primary task is to 
 
 ### **Power BI/Tableau Visualization**
 
-1.Data Import: Connect SQL to Power BI/Tableau and import the cleaned data.
+1. Data Import: Connect SQL to Power BI/Tableau and import the cleaned data.
 
-2.Dashboard Creation: Develop interactive dashboards to visualize key findings.
+2. Dashboard Creation: Develop interactive dashboards to visualize key findings.
 
 ## **Analysis Steps**
-1. Customer Analysis
+1. **Customer Analysis**
 - Demographic Distribution: Analyze customer demographics by gender, age, and location.
 - Purchase Patterns: Identify average order value, purchase frequency, and product preferences.
 - Segmentation: Segment customers based on behavior and demographics.
-2. Sales Analysis
+2. **Sales Analysis**
 - Overall Sales Performance: Analyze total sales trends over time.
 - Sales by Product: Determine top-performing products.
 - Sales by Store: Assess performance across different stores.
 - Sales by Currency: Evaluate the impact of currency exchange rates on sales.
-3. Product Analysis
+3. **Product Analysis**
 - Product Popularity: Identify best-selling and least popular products.
 - Profitability Analysis: Calculate profit margins by comparing costs and prices.
 - Category Analysis: Analyze sales across different product categories.
-4. Store Analysis
+4. **Store Analysis**
 - Store Performance: Evaluate stores based on sales and operational data.
 - Geographical Analysis: Identify high-performing regions based on store locations.
 
