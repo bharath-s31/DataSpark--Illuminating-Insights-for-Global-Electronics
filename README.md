@@ -55,9 +55,13 @@ As a member of Global Electronics' data analytics team, your primary task is to 
 **Skills Acquired**
 
 *Data Cleaning and Preprocessing
+
 *Exploratory Data Analysis (EDA)
+
 *Python Programming
+
 *Data Management using SQL
+
 *Data Visualization with Power BI
 
 **Results**
