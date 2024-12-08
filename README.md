@@ -76,7 +76,7 @@ As a member of Global Electronics' data analytics team, your primary task is to 
 
 - Also, it consists of in-depth insights into 
  
-     -customer demographics
+     - customer demographics
      
      - purchasing behaviors
      
