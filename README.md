@@ -70,25 +70,25 @@ As a member of Global Electronics' data analytics team, your primary task is to 
 
 ## **Results**
 
--Upon completion of the project,we as a team able to deliver a comprehensive Exploratory Data Analysis (EDA) report for Global Electronics
+- Upon completion of the project,we as a team able to deliver a comprehensive Exploratory Data Analysis (EDA) report for Global Electronics
 
--This project features clean and integrated datasets
+- This project features clean and integrated datasets
 
 - Also, it consists of in-depth insights into 
  
      -customer demographics
      
-     -purchasing behaviors
+     - purchasing behaviors
      
-     -product performance
+     - product performance
      
-     -store operations
+     - store operations
      
-     -currency impact on sales.
+     - currency impact on sales.
 
--This report also includes visually compelling visualizations and actionable recommendations
+- This report also includes visually compelling visualizations and actionable recommendations
 
--tailored to enhance marketing strategies, optimize inventory management, improve sales forecasting, guide product development, and inform store expansion and operational decisions. 
+- tailored to enhance marketing strategies, optimize inventory management, improve sales forecasting, guide product development, and inform store expansion and operational decisions. 
 This analysis will empower Global Electronics to increase customer satisfaction, maximize revenue, and drive overall business growth.
 
 
